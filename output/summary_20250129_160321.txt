@@ -1,0 +1,5 @@
+Total Partners: 120
+Unique Batches: 8
+Partners with Email: 120
+Partners with Phone: 120
+Unique Specializations: 56
